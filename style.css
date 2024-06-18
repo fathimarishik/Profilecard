@@ -1,0 +1,27 @@
+.Profile-card{
+    width:350px;
+    height: 400px;
+    background-color:white;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-style: solid;
+    border-radius: 30px;
+    align-items: center;
+    border: 6px solid gray;
+    margin: 30px;
+    box-shadow: 5px 5px 5px 5px lightgray;
+}
+.heading{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    width: 250px;
+    height: 200px;
+    text-align: left;
+    padding-top: 30px;
+    
+
+}
